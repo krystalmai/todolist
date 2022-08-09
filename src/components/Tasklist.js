@@ -34,7 +34,7 @@ function Tasklist({
       </ul>
       <div className="filter-wrapper">
         <label htmlFor="filter" className="filter-label">
-          Show imcompleted tasks only
+          Show uncompleted tasks only
         </label>
         <input
           type="checkbox"
